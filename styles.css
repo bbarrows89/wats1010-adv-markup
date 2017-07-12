@@ -4,6 +4,10 @@ nav ul li {
     display: inline-block;
 }
 
+a.active {
+    font-weight: bold;
+}
+
 .poem {
     list-style-type: none;
 }
