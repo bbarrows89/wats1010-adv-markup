@@ -1,6 +1,6 @@
 /* Styles for the Advanced Markup assignment. */
 
-nav li {
+nav ul li {
     display: inline-block;
 }
 
