@@ -2,16 +2,19 @@
 
 nav ul li {
     display: inline-block;
+}
+
+nav a {
     border: 3px solid paleturquoise;
     border-radius: 5px;
 }
 
-a.active {
-    font-weight: bold;
+nav a:hover {
+    font-size: 115%;
 }
 
-a:hover {
-    font-size: 115%;
+a.active {
+    font-weight: bold;
 }
 
 #sidebar {
