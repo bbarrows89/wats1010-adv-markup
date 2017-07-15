@@ -6,21 +6,24 @@ nav {
 
 nav ul {
     text-align: center;
-    padding-right: 20px;
+    padding-right: 25px;
 }
 
-nav ul li {
-    display: inline;
+nav li {
+    display: inline-block;
 }
 
 nav a {
     border: 3px solid #ff5050;
     border-radius: 5px;
     color: whitesmoke;
+    padding: 10px;
+    display: inline-block;
 }
 
 nav a:hover {
-    font-size: 115%;
+    z-index: 100;
+    transform: scale(1.05,1.05);
 }
 
 a.active {
