@@ -125,20 +125,21 @@ figure {
 }
 
 .fa-facebook {
-  background: #3B5998;
-  color: white;
+    background: #3B5998;
+    color: white;
 }
 
 .fa-twitter {
-  background: #55ACEE;
-  color: white;
+    background: #55ACEE;
+    color: white;
 }
 
 .fa-instagram {
-  background: #125688;
-  color: white;
+    background: #125688;
+    color: white;
 }
 
-/* .fa-envelope {
-    
-} */
+.fa-envelope {
+    background: darkblue;
+    color: white;
+} 
