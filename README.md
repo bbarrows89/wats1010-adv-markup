@@ -16,16 +16,16 @@ In order to complete this assignment, you must fulfill the following requirement
 
 1. - [ ] Pay attention to the TODOs in the HTML files. They tell you what enhancements
    you must make.
-2. - [ ]  Add proper HREF values so navigational links allow you to click between all
+2. - [x]  Add proper HREF values so navigational links allow you to click between all
    three pages of the site.
-3. - [ ]  Style navigational lists so those links display horizontally on the page in
+3. - [x]  Style navigational lists so those links display horizontally on the page in
    the header and footer.
 4. - [ ]  Add internal links to the in-text citations (denoted with a numnber in
    brackets like this: ``[1]``) so users can click the links and scroll directly
    to the citation.
 5. - [ ]  Use the ``<sup>`` tag around the in-text citations to make them pop up on
    the line (so they look like footnote indicators).
-6. - [ ]  In the ``about-poe.html`` file, add an accessible HTML table listing the
+6. - [x]  In the ``about-poe.html`` file, add an accessible HTML table listing the
    Selected Works provided in the ``poe_selected_works.pdf`` file. (Note: This
    is the same information contained in the ``poe_selected_works.csv`` file,
    which you are also free to use as a resource.)
