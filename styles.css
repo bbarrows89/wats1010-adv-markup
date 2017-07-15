@@ -6,6 +6,7 @@ nav {
 
 nav ul {
     text-align: center;
+    padding-right: 20px;
 }
 
 nav ul li {
@@ -88,6 +89,15 @@ figure {
   text-decoration: none;
   margin: 5px 2px;
   line-height: 25px; */
+
+ 
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
   
 }
 
@@ -121,4 +131,8 @@ figure {
 .fa-instagram {
   background: #125688;
   color: white;
+}
+
+.fa-envelope {
+    background: 
 }
