@@ -1,12 +1,21 @@
 /* Styles for the Advanced Markup assignment. */
 
+nav {
+    background-color: black;
+}
+
+nav ul {
+    text-align: center;
+}
+
 nav ul li {
-    display: inline-block;
+    display: inline;
 }
 
 nav a {
-    border: 3px solid paleturquoise;
+    border: 3px solid #ff5050;
     border-radius: 5px;
+    color: whitesmoke;
 }
 
 nav a:hover {
@@ -15,6 +24,11 @@ nav a:hover {
 
 a.active {
     font-weight: bold;
+    color: #ff5050
+}
+
+h1 {
+    text-align: center;
 }
 
 #sidebar {
