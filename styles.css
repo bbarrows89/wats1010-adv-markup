@@ -90,7 +90,7 @@ figure {
   margin: 5px 2px;
   line-height: 25px; */
 
- 
+ /* borrowed settings from my css project, which worked nicely */
   padding: 20px;
   font-size: 30px;
   width: 50px;
@@ -99,7 +99,6 @@ figure {
   margin: 5px 2px;
 }
   
-}
 
 /* ul li a i {
     background: #205D7A;
@@ -133,6 +132,6 @@ figure {
   color: white;
 }
 
-.fa-envelope {
-    background: 
-}
+/* .fa-envelope {
+    
+} */
