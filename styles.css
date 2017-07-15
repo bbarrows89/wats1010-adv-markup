@@ -31,6 +31,10 @@ a.active {
     color: #ff5050
 }
 
+p {
+    text-indent: 25px;
+}
+
 h1 {
     text-align: center;
 }
