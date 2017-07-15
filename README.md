@@ -44,11 +44,11 @@ stretch goals:
 * - [x]  Make the social links in the ``<aside>`` element have icons. You can find
   social media icons in many places. Here's a link to get you started:
   http://designyoutrust.com/2013/08/flat-icons-super-minimalist-social-media-icons/
-* - [ ]  Add an email share link and use a ``mailto`` link to open an email message
+* - [x]  Add an email share link and use a ``mailto`` link to open an email message
   dialogue for the user. Try using querystring parameters to set the
   subject line. Here's an info link to get you going:
   http://en.wikipedia.org/wiki/Mailto
-* - [ ]  Use ``background`` and ``border`` attributes to make a "navbar" look for your
+* - [x]  Use ``background`` and ``border`` attributes to make a "navbar" look for your
   navigation, and use the ``:hover`` pseudoselector to make the navbar react
   when a user puts their mouse over a menu item.
 
